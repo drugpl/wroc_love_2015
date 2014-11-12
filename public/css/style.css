@@ -191,7 +191,7 @@
 
 	header.major {
 		padding: 1em 0;
-		text-align: center;
+		text-align: left;
 	}
 
 		header.major h2 {
@@ -202,7 +202,7 @@
 			display: inline-block;
 			border-top: solid 2px #e5e5e5;
 			color: #777;
-			margin: 1.5em 0 0 0;
+			margin: 0.5em 0 1.5em 0;
 			padding: 1.5em 0 0 0;
 			font-style: normal;
 		}
