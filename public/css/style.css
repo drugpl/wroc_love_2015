@@ -195,11 +195,11 @@
 
 		header.major h2 {
 			margin: 0;
+      border-bottom: solid 2px #e5e5e5;
 		}
 
 		header.major p {
 			display: inline-block;
-			border-top: solid 2px #e5e5e5;
 			color: #777;
 			margin: 0.5em 0 1.5em 0;
 			padding: 1.5em 0 0 0;
@@ -408,7 +408,6 @@
 	.box {
 		background: #fff;
 		border-radius: 6px;
-		box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
 		padding: 3em;
 	}
@@ -483,6 +482,10 @@
 
 		.box.special {
 			text-align: center;
+		}
+
+		.box.special p {
+			text-align: left;
 		}
 
 		.box .image.featured {
