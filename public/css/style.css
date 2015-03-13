@@ -1451,3 +1451,9 @@ header.schedule h3 {
     margin: 0px;
     padding-left: 15px;
 }
+
+
+.phone {
+    text-align: center;
+    font-size: 18pt;
+}
